@@ -75,7 +75,9 @@
     opacity: 0.7;
   }
   
-.card {margin-left: 19vw !important;
-margin-top:0vw !important;} 
+.card {
+  /* margin-left: 19vw !important;
+  margin-top:0vw !important; */
+} 
 
 .top-buffer { margin-top:20px; }
