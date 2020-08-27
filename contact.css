@@ -45,12 +45,27 @@
   }
 
   #undertitle {
-    margin-left: 20vw !important;
+    margin-left: 40vw !important;
     font-size: 40px;
     word-break: break-all;
   }
   
+  .center {
+     margin-left: 14.5vw;
+     
+  }
+
+  .phone {
+      margin-left: 15vw;
+  }
+
+  .email {
+      margin-left: 15vw;
+  }
   
+  *col-sm-2 {
+      margin-left: 20vw ;
+  }
   
 
   
