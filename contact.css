@@ -38,7 +38,7 @@
   }
    
   #title {
-    margin-left: 40vw !important;
+    margin-left: 35vw !important;
     margin-top:0vw !important;
     font-family: 'Dancing Script', cursive;
     font-size: 80px;
@@ -50,20 +50,8 @@
     word-break: break-all;
   }
   
-  .center {
-     margin-left: 14.5vw;
-     
-  }
-
-  .phone {
-      margin-left: 15vw;
-  }
-
-  .email {
-      margin-left: 15vw;
-  }
   
-  
+
   
 
   
